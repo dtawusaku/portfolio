@@ -1,16 +1,15 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "David Tony-Awusaku",
+  title: "Software Engineer",
+  description: "Portfolio website of David Tony-Awusaku",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "davidtonyawusaku@gmail.com", // email
+    linkedin: "https://linkedin.com/in/davidtony",
+    // twitter: "https://x.com/rfitzio",
+    github: "https://github.com/dtawusaku",
   },
-  aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+  aboutMe: " I am a ...",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
@@ -37,9 +36,9 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "ECOWAS CCJ",
+      title: "Graduate IT Support Specialist",
+      dateRange: "Feb 2024 – Aug 2024",
       bullets: [
         "Led development of microservices architecture serving 1M+ users",
         "Reduced API response times by 40% through optimization",
@@ -47,9 +46,9 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Huawei Technologies",
+      title: "Cloud Technology Intern",
+      dateRange: "Mar 2022 – Jun 2022",
       bullets: [
         "Built and launched MVP product from scratch using React and Node.js",
         "Implemented CI/CD pipeline reducing deployment time by 60%",
@@ -57,9 +56,9 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
+      company: "Netapps Marketplace",
+      title: "Web Development Intern",
+      dateRange: "Feb 2022 – Mar 2022",
       bullets: [
         "Developed responsive web applications for 20+ clients",
         "Improved site performance scores by 35% on average",
@@ -69,19 +68,19 @@ export const siteConfig = {
   ],
   education: [
     {
-      school: "University Name",
-      degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      school: "Dublin City University",
+      degree: "Master of Science in Computing",
+      dateRange: "2024 - 2025",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
+        "Graduated with Upper Second Class Honours (2:1)",
+        'Completed dissertation on "Evaluating the Efficacy of Multilingual Speech Recognition Models for Igbo Speech Recognition using Data Augmentation Techniques"',
+        // "Industry Labs",
+      ], //Also make new compnoent for moduels later
     },
     {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
+      school: "Babcock University",
+      degree: "Bachelor of Science in Software Engineering",
+      dateRange: "2019 - 2023",
       achievements: [
         "Completed 500+ hours of coursework",
         "Built 10+ portfolio projects",
