@@ -1,4 +1,5 @@
-<img width="1943" height="1093" alt="image" src="https://github.com/user-attachments/assets/cc2ff955-17c2-48c7-81c8-479a0f061850" />
+<img width="1943" height="1093" alt="image" 
+     src="https://drive.google.com/uc?export=view&id=1vs5-5GwxhEHLO6Iv_Oz3uTGtipxiLZtL" />
 
 # My Portfolio
 
