@@ -18,7 +18,7 @@ This portfolio was built to present my academic and professional achievements, i
 - Contact information and links to my professional profiles
 
 You can visit the live portfolio here:  
-👉 **[View Live Portfolio](https://your-portfolio-link.com)** _(replace with your actual link)_
+👉 **[View Live Portfolio](https://dtawusaku.github.io/portfolio/)**
 
 ---
 
@@ -29,8 +29,8 @@ All rights to the original template remain with the creator.
 
 ## 🧠 Notable Projects
 
-| Project                                           | Description                       | Tech Stack                                        |
+<!-- | Project                                           | Description                       | Tech Stack                                        |
 | ------------------------------------------------- | --------------------------------- | ------------------------------------------------- | -------------- |
 | **Evaluating the Efficacy of Speech Recognition** | Research Project.                 | Python, HuggingFace, Jupyter                      |
 | <!--                                              | **[Other Project Name]**          | Brief one-line summary of what it does or solves. | React, Node.js |
-| **[Another Project]**                             | Describe impact or functionality. | HTML, CSS, JavaScript                             | -->            |
+| **[Another Project]**                             | Describe impact or functionality. | HTML, CSS, JavaScript                             | -->            | -->
